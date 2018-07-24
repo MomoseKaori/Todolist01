@@ -1,0 +1,14 @@
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\bin\Debug\TodoList01.exe.config
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\bin\Debug\TodoList01.exe
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\bin\Debug\TodoList01.pdb
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\bin\Debug\MySql.Data.dll
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\obj\Debug\TodoList01.Form1.resources
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\obj\Debug\TodoList01.Properties.Resources.resources
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\obj\Debug\TodoList01.csproj.GenerateResource.Cache
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\obj\Debug\TodoList01.exe
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\obj\Debug\TodoList01.pdb
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\obj\Debug\TodoList01.Form2.resources
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\obj\Debug\TodoList01.csprojResolveAssemblyReference.cache
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\obj\Debug\TodoList01.Form3.resources
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\obj\Debug\TodoList01.Form4.resources
+C:\Users\171y064\Documents\卒研\TodoList01\TodoList01\obj\Debug\TodoList01.Form5.resources
